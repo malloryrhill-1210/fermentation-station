@@ -37,7 +37,7 @@ To run the website locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/username/fermentation-station.git](https://github.com/malloryrhill-1210/crossplane-gcp-tutorial.git)
+   git clone https://github.com/malloryrhill-1210/crossplane-gcp-tutorial.git
    ```
 2. Navigate to the project directory:
    ```bash
