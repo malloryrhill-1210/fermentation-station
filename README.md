@@ -1,7 +1,3 @@
-For your **"Fermentation Station"** project, since it's a design-focused learning project built with HTML, CSS, and some JavaScript, here’s what I would suggest including in the **README** file:
-
----
-
 ## Fermentation Station
 
 **Fermentation Station** is a website designed as a learning project to explore web design principles using **HTML**, **CSS**, and some **JavaScript**. The project focuses on creating a visually appealing and responsive user experience.
