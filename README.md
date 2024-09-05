@@ -10,7 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Design Goals](#design-goals)
-- [License](#license)
 
 ---
 
