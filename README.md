@@ -33,7 +33,7 @@
 
 ### Installation
 
-To run the website locally:
+To view the website locally:
 
 1. Clone the repository:
    ```bash
